@@ -1,0 +1,1 @@
+OrderedDict([('RePorter', 161), ('CIHR', 23), ('PCORI', 23), ('VA', 16), ('NHMRC', 16), ('AHRQ', 2), ('NARIC', 2), ('RWJF', 2), ('SNSF', 1), ('CMS', 1), ('ACS', 1), ('Donaghue', 1)])
