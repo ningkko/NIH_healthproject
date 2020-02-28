@@ -1,1 +1,1 @@
-[['age', 'aging'], ['female', 'pregnanc'], ['veteran'], ['adolescen', 'young', 'child'], ['ethn', 'minority', 'indian', 'africa', 'mexic', 'hispani']]OrderedDict([('4', 174389321), ('0', 74574577), ('3', 74495563), ('others', 56361206), ('1', 32877899), ('2', 1430958)])
+[['age', 'aging'], ['female', 'pregnanc'], ['veteran'], ['adolescen', 'young', 'child'], ['ethn', 'minority', 'indian', 'africa', 'mexic', 'hispani']]OrderedDict([('4', 75359572), ('0', 62863139), ('others', 56361206), ('3', 31147220), ('1', 25599713), ('2', 1430958)])

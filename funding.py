@@ -38,8 +38,11 @@ total_funding = 0
 for record in records:
     record = record.lower()
     meshterms = re.search(r'mesh terms:(.*?)dat', record).group()
+  
     funding = funding_from_record(record)
     total_funding += funding
+  
+    # if counts as others
     others = 1
 
     for i in range(len(keywords)):
@@ -49,6 +52,8 @@ for record in records:
                 others = 0
                 dictionary[str(i)] += funding
                 # for a keyword group, count the research for only once.
+                break
+
     if others == 1:
         dictionary["others"] += funding
 
